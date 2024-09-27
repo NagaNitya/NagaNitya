@@ -1,7 +1,7 @@
 ## 🌸Hi there! Welcome to my GitHub profile!🌸
 
 
-### 👩🏼‍💻About Me
+### 👩🏼‍💻 About Me
 I am Nitya Penumerthy, a student of Computer Science with a focus on AI/ML. 
 
 🔎 Reach out to me on: ![Static Badge](https://img.shields.io/badge/LinkedIn-Nitya_Penumerthy-blue?style=flat&labelColor=%230492c2&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitya-penumerthy-1256b7274%2F) 
