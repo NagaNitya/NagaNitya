@@ -13,15 +13,14 @@ I’m currently learning ML technologies, focusing on improving my proficiency i
 
 ##
 ### 🖌️ Hobbies
-My Hobbies include: drawing, painting and reading(mostly fiction). I also enjoy video games, and my current favourite is Genshin Imapct.⚔️
+My Hobbies include drawing, painting and reading (mostly fiction). I also enjoy video games, and my current favourite is Genshin Imapct.⚔️
 
 ![Static Badge](https://img.shields.io/badge/DeviantArt-nityasri-black?style=flat&labelColor=black&color=%2374b72e&link=https%3A%2F%2Fwww.deviantart.com%2Fnityasri) ![Static Badge](https://img.shields.io/badge/The_StoryGraph-Izlanfera-black?style=flat&labelColor=%23fcae1e&color=%23fff44f&link=https%3A%2F%2Fapp.thestorygraph.com%2Fprofile%2Fizlanfera) ![Static Badge](https://img.shields.io/badge/Discord-Izlanfera-black?style=flat&labelColor=black&color=%235865F2&link=discordapp.com%2Fusers%2F1105481355078414406)
 
-
 ##
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@naganitya13793/30-nites-of-code)  
-  ![@naganitya13793 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=naganitya13793)
+  [Check out my progress!](https://www.codedex.io/@Izlanfera/30-nites-of-code)  
+  ![@Izlanfera #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Izlanfera)
 
 <!--
 **NagaNitya/NagaNitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
