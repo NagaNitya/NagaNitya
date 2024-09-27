@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@naganitya13793/30-nites-of-code)  
+  ![@naganitya13793 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=naganitya13793)
+
 <!--
 **NagaNitya/NagaNitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
