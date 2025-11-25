@@ -2,7 +2,7 @@
 
 
 ### 👩🏼‍💻 About Me
-I am Nitya Penumerthy, a student of Computer Science with a focus on AI/ML. 
+I am Nitya Penumerthy, a recent graduate of Computer Science with a focus on AI/ML. 
 
 🔎 find out more on my portfolio: ![Static Badge](https://img.shields.io/badge/Portfolio-Nitya_P-black?labelColor=%23d3e1ee&color=%23e7d9e0&link=https%3A%2F%2Fnitya-penumerthy.netlify.app%2F)
 
